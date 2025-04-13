@@ -13,20 +13,6 @@ This project demonstrates a simple binary image classifier that distinguishes be
 
 ---
 
-## 📂 Project Structure
-
-📦 cat-classifier-perceptron
-├── cat-classifier-perceptron.ipynb – Main notebook
-├── datasets/ – Preprocessed H5 datasets
-│ ├── train_catvnoncat.h5
-│ └── test_catvnoncat.h5
-├── test_cat_noncat/ – Folder with sample images
-│ ├── myimg0.jpg, myimg1.jpg...
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
